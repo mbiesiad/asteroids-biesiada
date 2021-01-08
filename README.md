@@ -1,4 +1,4 @@
-# Asteroids measures & (future) discoveries by Michal Biesiada
+# Asteroids measurements & (future) discoveries by Michal Biesiada
 
 The project is inspired by SOHO comets [discoveries-biesiada](https://github.com/mbiesiad/discoveries-biesiada) & [Supernova](https://github.com/mbiesiad/supernovas-biesiada).
 
