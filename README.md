@@ -22,6 +22,6 @@ I try support the tech & science as well as I can.
 
 I dedicate these (future I hope) discoveries to my Family & Friends which support me all the ways!
 
-Source of data: TOTAS page (above).
+Source of data: public TOTAS page (above).
 
 Best wishes. 🚀
