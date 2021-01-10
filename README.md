@@ -2,7 +2,7 @@
 
 The project is inspired by SOHO comets [discoveries-biesiada](https://github.com/mbiesiad/discoveries-biesiada) & [Supernova](https://github.com/mbiesiad/supernovas-biesiada).
 
-The main goal of this project is to be a data backup for me in this case. ⭐ I'm focusing here on [TOTAS](https://totas.cosmos.esa.int/) project supported by [ESA](https://www.esa.int/). I suppose it will be quite useful for me, I mean organize & backup the data. ⭐ 
+The main goal of this project is to be a data backup for me in this case. ⭐ I'm focusing here on [TOTAS](https://totas.cosmos.esa.int/) project supported by [ESA](https://www.esa.int/) (European Space Agency). I suppose it will be quite useful for me, I mean organize & backup the data. ⭐ 
 
 ## Tables
 
